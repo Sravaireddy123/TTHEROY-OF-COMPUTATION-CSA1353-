@@ -1,0 +1,10 @@
+# TTHEROY-OF-COMPUTATION-CSA1353-
+DFA,
+NFA,
+PDA(a^nb^n),
+TM(a^nb^n),
+TM (a^nb^2n),
+TM palindrome,
+TM addition,
+TM subtraction ,
+TM string comparision,
